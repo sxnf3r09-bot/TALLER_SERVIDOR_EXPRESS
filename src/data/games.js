@@ -4,4 +4,4 @@ const games = [
   { id: 3, title: 'Valorant', genre: 'Shooter', platform: 'PC' }
 ];
 
-module.exports = games;
+export default games;
